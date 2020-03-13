@@ -17,4 +17,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/dipped_pretzel_sticks.gg.unity
     guid: 618c452ade870424e901aeb227811b8e
+  - enabled: 1
+    path: Assets/Scenes/smallfood.gg.unity
+    guid: f5ff9d5be4d5245d197a27f17a0b3c67
+  - enabled: 1
+    path: Assets/Scenes/alfajores.gg.unity
+    guid: dc12f94b67fd540c2b189f654a344861
+  - enabled: 1
+    path: Assets/Scenes/anzac_biscuit.gg.unity
+    guid: 89af3238d250d4c9d939cc4ee03f0730
+  - enabled: 1
+    path: Assets/Scenes/bakingtips.gg.unity
+    guid: 7c3573f7565214a96b4825a3ae92743e
+  - enabled: 1
+    path: Assets/Scenes/banana_bread.gg.unity
+    guid: 34b7e26200a064b2fba0f6cb7abcc6f5
+  - enabled: 1
+    path: Assets/Scenes/bigfood.gg.unity
+    guid: 68d41df33f445447b8e24d8be70d8b6c
+  - enabled: 1
+    path: Assets/Scenes/creme_brulee.gg.unity
+    guid: a5ad74278501f4c50ac29fd957d45d57
+  - enabled: 1
+    path: Assets/Scenes/home.gg.unity
+    guid: a61a56af8640543b69840d50fee20353
+  - enabled: 1
+    path: Assets/Scenes/loading.gg.unity
+    guid: 2660974b44fe24fc694e67e1a89f2fa3
+  - enabled: 1
+    path: Assets/Scenes/rice_pudding.gg.unity
+    guid: 5274c09c0fe064920987a951a480f883
   m_configObjects: {}
